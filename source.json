@@ -1,27 +1,26 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Kitora5 - Source",
+    "id":"net.kitora5.source",
+    "url":"https://Kitora5.github.io/VPM/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"contact@Kitora5.net",
+        "name":"Kitora5",
+        "url":"https://Kitota5.net"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Package of Esssential Stuff that Kitora5 uses across their Projects.",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/Kitora5/K5ource",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "Kitora5/K5ource"
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"net.kitora5.source",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/Kitora5/K5ource/releases/download/1.0.0/net.kitora5.source.zip",
             ]
         }
     ]

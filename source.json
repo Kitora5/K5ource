@@ -9,14 +9,18 @@
     },
     "description":"Kitora5 listing repo",
     "infoLink":{
-        "url":"https://github.com/Kitora5/vpm",
+        "url":"http://github.com/Kitora5/vpm",
         "text":"GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
+        "Kitora5/files"
     ],
     "packages":[
         {
+            "name":"net.Kitora5.K5ource",
+            "releases":[
+                "https://github.com/Kitora5/K5ource/releases/net.Kitora5.K5ource_v1.0.0.zip",
         }
     ]
 }

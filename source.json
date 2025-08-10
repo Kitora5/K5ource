@@ -1,5 +1,5 @@
 {
-    "name":"Kitora5 - VPM Repo",
+    "name":"Kitora5 Packages",
     "id":"io.github.kitora5.vpm",
     "url":"https://kitora5.github.io/vpm/index.json",
     "author":{
@@ -10,7 +10,7 @@
     "description":"Kitora5 listing repo",
     "infoLink":{
         "url":"https://github.com/Kitora5/vpm",
-        "text":"GitHub"
+        "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     /*"githubRepos":[

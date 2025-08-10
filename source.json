@@ -1,16 +1,19 @@
 {
-    "name":"Kitora5 - Listing",
-    "id":"net.kitora5.vpm",
-    "url":"https://Kitora5.github.io/vpm/index.json",
+    "name":"Kitora5 - VPM Repo",
+    "id":"io.github.kitora5.vpm",
+    "url":"https://kitora5.github.io/vpm/index.json",
     "author":{
         "email":"contact@kitora5.net",
         "name":"Kitora5",
-        "url":"https://kitota5.net"
+        "url":"https://github.com/kitora5"
     },
     "description":"Kitora5 listing repo",
     "infoLink":{
-        "url":"http://github.com/Kitora5/vpm",
+        "url":"https://github.com/Kitora5/vpm",
         "text":"GitHub"
     },
     "bannerUrl":"banner.png",
+    "githubRepos":[
+        "Kitora5/GoPanel"
+    ]
 }

@@ -19,8 +19,9 @@
     "packages":[
         {
             "name":"net.Kitora5.K5ource",
-        "releases":[
+            "releases":[
                 "https://github.com/Kitora5/K5ource/releases/net.Kitora5.K5ource_v1.0.0.zip"
-        ]
-    }
-]
+            ]
+        }
+    ]
+}

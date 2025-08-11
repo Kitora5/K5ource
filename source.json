@@ -3,7 +3,6 @@
     "id":"io.github.kitora5.vpm",
     "url":"https://kitora5.github.io/vpm/index.json",
     "author":{
-        "email":"contact@kitora5.net",
         "name":"Kitora5",
         "url":"https://github.com/kitora5"
     },
@@ -16,12 +15,10 @@
     "githubRepos":[
         "Kitora5/GoPanel"
     ]
-    "packages":[
+    /*"packages":[
         {
             "name":"com.github.kitora5.gopanel",
-            "releases":[
-                "https://github.com/Kitora5/GoPanel/releases/download/v1.0.0/GoPanel_v1.0.0.zip"
-            ]
+            "releases":["https://github.com/Kitora5/GoPanel/releases/download/v1.0.0/GoPanel_v1.0.0.zip"]
         }
-    ]
+    ]*/
 }

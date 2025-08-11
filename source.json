@@ -16,4 +16,12 @@
     "githubRepos":[
         "Kitora5/GoPanel"
     ]
+    "packages":[
+        {
+            "name":"com.github.kitora5.gopanel",
+            "releases":[
+                "https://github.com/Kitora5/GoPanel/releases/download/v1.0.0/GoPanel_v1.0.0.zip"
+            ]
+        }
+    ]
 }

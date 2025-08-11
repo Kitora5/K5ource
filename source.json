@@ -13,8 +13,7 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"K5_banner.png",
-    /*"githubRepos":[
-        "Kitora5/GoPanel",
-        "Kitora5/source"
-    ]*/
+    "githubRepos":[
+        "Kitora5/GoPanel"
+    ]
 }
